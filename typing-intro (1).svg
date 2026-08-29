@@ -1,0 +1,57 @@
+<svg width="650" height="40" viewBox="0 0 650 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Courier New', Consolas, monospace;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #38BDF8;
+    }
+
+    .r1 { animation: c1 16s steps(31, end) infinite; }
+    .r2 { animation: c2 16s steps(35, end) infinite; }
+    .r3 { animation: c3 16s steps(30, end) infinite; }
+    .r4 { animation: c4 16s steps(41, end) infinite; }
+
+    @keyframes c1 {
+      0%    { width: 0; }
+      7.5%  { width: 620px; }
+      17.5% { width: 620px; }
+      22.5% { width: 0; }
+      100%  { width: 0; }
+    }
+    @keyframes c2 {
+      0%    { width: 0; }
+      25%   { width: 0; }
+      32.5% { width: 620px; }
+      42.5% { width: 620px; }
+      47.5% { width: 0; }
+      100%  { width: 0; }
+    }
+    @keyframes c3 {
+      0%    { width: 0; }
+      50%   { width: 0; }
+      57.5% { width: 620px; }
+      67.5% { width: 620px; }
+      72.5% { width: 0; }
+      100%  { width: 0; }
+    }
+    @keyframes c4 {
+      0%    { width: 0; }
+      75%   { width: 0; }
+      82.5% { width: 620px; }
+      92.5% { width: 620px; }
+      97.5% { width: 0; }
+      100%  { width: 0; }
+    }
+  </style>
+
+  <clipPath id="clip1"><rect class="r1" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip2"><rect class="r2" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip3"><rect class="r3" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip4"><rect class="r4" x="0" y="0" width="0" height="40"/></clipPath>
+
+  <text x="10" y="26" clip-path="url(#clip1)">Hola, soy Carlos Salas Garcia 👋</text>
+  <text x="10" y="26" clip-path="url(#clip2)">Cybersecurity Engineering Student 🛡️</text>
+  <text x="10" y="26" clip-path="url(#clip3)">Computer Engineering Student 💻</text>
+  <text x="10" y="26" clip-path="url(#clip4)">Construyendo mi carrera en Ciberseguridad</text>
+</svg>
