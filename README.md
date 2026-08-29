@@ -14,8 +14,6 @@
 
 ---
 
-
-
 ## 🛡️ About Me
 
 ```yaml
@@ -78,8 +76,6 @@ carlos_salas_garcia:
 ### 🛡️ SOC Incident Response Platform — AWS
 <p><em>Plataforma de Centro de Operaciones de Seguridad que monitorea eventos de AWS en tiempo real (CloudTrail + GuardDuty), correlaciona amenazas y genera tickets de incidentes automáticamente con mapeo a MITRE ATT&CK.</em></p>
 
-[![SOC AWS](https://github-readme-stats.vercel.app/api/pin/?username=p3lw&repo=ticketing-system-aws&theme=dark&bg_color=0A192F&title_color=38BDF8&icon_color=00A8FF&text_color=FFFFFF&border_color=0077FF&hide_border=false)](https://github.com/p3lw/ticketing-system-aws)
-
 <img src="https://img.shields.io/badge/C%2B%2B20-0A192F?style=flat-square&logo=c%2B%2B&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/AWS%20Lambda-0A192F?style=flat-square&logo=awslambda&logoColor=00A8FF"/>
 <img src="https://img.shields.io/badge/Terraform-0A192F?style=flat-square&logo=terraform&logoColor=0077FF"/>
@@ -87,39 +83,34 @@ carlos_salas_garcia:
 
 <br><br>
 
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=000000)](https://github.com/p3lw/ticketing-system-aws)
+
+<br><br><hr width="60%">
+
 ### 🏥 Proyecto Clínica Web
 <p><em>Aplicación web full-stack (backend + frontend) para gestión de una clínica.</em></p>
-
-[![Proyecto Clínica](https://github-readme-stats.vercel.app/api/pin/?username=p3lw&repo=proyecto-ciber&theme=dark&bg_color=0A192F&title_color=38BDF8&icon_color=00A8FF&text_color=FFFFFF&border_color=0077FF&hide_border=false)](https://github.com/p3lw/proyecto-ciber)
 
 <img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/Next.js-0A192F?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
 
 <br><br>
 
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=000000)](https://github.com/p3lw/proyecto-ciber)
+
+<br><br><hr width="60%">
+
 ### 🎫 Ticketing System (C++)
 <p><em>Sistema de tickets con servidor backend en C++ y frontend en PHP, contenerizado con Docker.</em></p>
-
-[![Ticketing C++](https://github-readme-stats.vercel.app/api/pin/?username=p3lw&repo=c--ticketing-system&theme=dark&bg_color=0A192F&title_color=38BDF8&icon_color=00A8FF&text_color=FFFFFF&border_color=0077FF&hide_border=false)](https://github.com/p3lw/c--ticketing-system)
 
 <img src="https://img.shields.io/badge/C%2B%2B-0A192F?style=flat-square&logo=c%2B%2B&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/PHP-0A192F?style=flat-square&logo=php&logoColor=00A8FF"/>
 <img src="https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=0077FF"/>
 
+<br><br>
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=000000)](https://github.com/p3lw/c--ticketing-system)
+
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p3lw&show_icons=true&theme=dark&bg_color=0A192F&title_color=38BDF8&icon_color=00A8FF&text_color=FFFFFF&border_color=0077FF&hide_border=false" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3lw&layout=compact&theme=dark&bg_color=0A192F&title_color=38BDF8&text_color=FFFFFF&border_color=0077FF&hide_border=false" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p3lw&theme=onedark&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=false" width="80%"/>
-</p>
 
 ---
 
