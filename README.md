@@ -117,10 +117,5 @@ carlos_salas_garcia:
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://TU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_CORREO_PROFESIONAL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://TU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://TU_FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
+  <a href="https://www.linkedin.com/in/carlos-daniel-salas-garcia-135501344/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <p align="center"><sub>⚡ "La seguridad no es un producto, es un proceso." — Bruce Schneier ⚡</sub></p>
